@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d345dcb6-e76f-4b33-bdca-4bda6e5655da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mPuhy87WrTIB003rFl7vWnSLc1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d345dcb6-e76f-4b33-bdca-4bda6e5655da" name="Default Changelist" comment="" />
+      <created>1609407669601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609407669601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="297" width="524" height="437" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1609506911379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="297" width="524" height="437" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609506911379" />
+    <state x="643" y="258" width="624" height="517" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1615726358466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="258" width="624" height="517" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615726358466" />
+    <state x="100" y="99" width="1720" height="840" key="AVDManager" timestamp="1610166596682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="99" width="1720" height="840" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1610166596682" />
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1611231320587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611231320587" />
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1614693556435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614693556435" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1614693556433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614693556433" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1614693556433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614693556433" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1614693556434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614693556434" />
+    <state x="464" y="154" key="SettingsEditor" timestamp="1611231943476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611231943476" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1610372167059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610372167059" />
+  </component>
+</project>
